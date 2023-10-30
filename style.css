@@ -1,0 +1,47 @@
+body {
+  background-color: #99eb9b;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  max-width: 400px;
+  margin: 100px auto;
+  background-color: #54659f;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  color: #333;
+}
+
+#timer {
+  font-size: 40px;
+  margin: 20px 0;
+  color: #333;
+}
+
+.buttons button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.startBtn {
+  background-color: #4CAF50;
+  color: #fff;
+}
+
+.stopBtn {
+  background-color: #f44336;
+  color: #fff;
+}
+
+.resetBtn {
+  background-color: #e2ed45;
+  color: #fff;
+}
